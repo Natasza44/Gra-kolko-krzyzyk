@@ -10,5 +10,5 @@ Projekt skupia się na implementacji logiki gry oraz walidacji danych wejściowy
 - Kontrola zajętości pola
 - Wymuszenie naprzemienności ruchów
 
-**2.Wykrywanie zakończenia gry**
+**2. Wykrywanie zakończenia gry**
 - Zaimplementowałam mechanizm sprawdzania wygranej oraz remisu.
